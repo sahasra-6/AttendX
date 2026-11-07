@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Student biometric data
+dataset/
+*.pkl
+
+# Attendance records
+attendance_records.csv
+presence_log.csv
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
